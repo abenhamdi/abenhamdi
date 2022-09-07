@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi, I'm Benhamdi Ayoub — Data scientist with 2 years of experience turning numbers into results. Strong interest in Artificial Intelligence, Data Analysis, Blockchain & Web 3 technlogy ✌💖.
 
-<!--
-**abenhamdi/abenhamdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Like to do data analysis, machine learning modelling and visualization my model.
 
-Here are some ideas to get you started:
+🎓 Recently certified project Manager from La Plateforme, Marseille.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Masters in Computer Science and a Certified with Talen and QlikView APi.
+
+✍️ In my curious, I read books, love to play football with freinds.
+
+💬 Currently looking for a right opportunity in the field of Data Analysis & AI. Feel free to reach out to me for working together, volunteering, or just for some interesting discussion.
+
+✉️ Shoot me an email at ayoub.benhamdi@laplateforme.fr and I'll try to respond as soon as I can.
+
+📄 For more details please have a look at my Resume.
+
+
+I work on .. 💻
+
