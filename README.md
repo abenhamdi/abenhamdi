@@ -4,7 +4,7 @@ Hi, I'm Benhamdi Ayoub — Data scientist with 2 years of experience turning num
 
 🎓 Recently certified project AI Manager from La Plateforme, Marseille.
 
-🌱 Masters in Computer Science and a Certified with Talen and QlikView APi.
+🌱 Masters in Computer Science and a Certified with Talend and QlikView APi.
 
 ✍️ In my curious, I read books, love to play football with freinds.
 
