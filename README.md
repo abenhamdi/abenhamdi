@@ -2,7 +2,7 @@ Hi, I'm Benhamdi Ayoub — Data scientist with 2 years of experience turning num
 
 💡 Like to do data analysis, machine learning modelling and visualization my model.
 
-🎓 Recently certified project Manager from La Plateforme, Marseille.
+🎓 Recently certified project AI Manager from La Plateforme, Marseille.
 
 🌱 Masters in Computer Science and a Certified with Talen and QlikView APi.
 
