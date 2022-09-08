@@ -1,4 +1,4 @@
-Hi, I'm Benhamdi Ayoub — Data scientist with 2 years of experience turning numbers into results. Strong interest in Artificial Intelligence, Data Analysis, Blockchain & Web 3 technlogy ✌💖.
+Hi, I'm Benhamdi Ayoub — Data scientist with 2 years of experience turning numbers into results. Strong interest in Artificial Intelligence, Data Analysis, Blockchain & Web 3 technlogy ✌.
 
 💡 Like to do data analysis, machine learning modelling and visualization my model.
 
