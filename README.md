@@ -1,4 +1,4 @@
-Hi, I'm Benhamdi Ayoub — Data scientist with 2 years of experience turning numbers into results. Strong interest in Artificial Intelligence, Data Analysis, Blockchain & Web 3 technlogy ✌.
+Hi, I'm Benhamdi Ayoub — Data scientist with 2 years of experience turning data into results. Strong interest in Artificial Intelligence, Data Analysis, Blockchain & Web 3 technlogy ✌. 
 
 💡 Like to do data analysis, machine learning modelling and visualization my model.
 
@@ -16,4 +16,18 @@ Hi, I'm Benhamdi Ayoub — Data scientist with 2 years of experience turning num
 
 
 I work on .. 💻
+
+![git](https://github.com/abenhamdi/abenhamdi/blob/main/git.svg)
+![react-native](https://github.com/abenhamdi/abenhamdi/blob/main/react_native.svg)
+
+
+
+
+You can follown me on ...
+
+
+
+
+
+
 
