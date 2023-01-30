@@ -39,8 +39,8 @@ I work on .. 💻
 You can follown me on ...
 
 
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+"Snake eating my contributions !
+![snake gif](https://github.com/abenhamdi/abenhamdi/blob/output/github-contribution-grid-snake.gif)
 
 
 
