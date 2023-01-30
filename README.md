@@ -18,20 +18,34 @@ Hi, I'm Benhamdi Ayoub — Data scientist with 2 years of experience turning dat
 I work on .. 💻
 
 ![python](https://github.com/abenhamdi/abenhamdi/blob/main/python.svg)
+
 ![c](https://github.com/abenhamdi/abenhamdi/blob/main/c.svg)
+
 ![c++](https://github.com/abenhamdi/abenhamdi/blob/main/c++.svg)
+
 ![java](https://github.com/abenhamdi/abenhamdi/blob/main/java.svg)
+
 ![git](https://github.com/abenhamdi/abenhamdi/blob/main/git.svg)
+
 ![html5](https://github.com/abenhamdi/abenhamdi/blob/main/html5.svg)
+
 ![css](https://github.com/abenhamdi/abenhamdi/blob/main/css-3.svg)
+
 ![bootstrap](https://github.com/abenhamdi/abenhamdi/blob/main/bootstrap.svg)
+
 ![php](https://github.com/abenhamdi/abenhamdi/blob/main/php.svg)
+
 ![javascript](https://github.com/abenhamdi/abenhamdi/blob/main/javascript.svg)
+
 ![react-native](https://github.com/abenhamdi/abenhamdi/blob/main/react_native.svg)
+
 ![jquery](https://github.com/abenhamdi/abenhamdi/blob/main/jquery.svg)
+
 ![nodejs](https://github.com/abenhamdi/abenhamdi/blob/main/nodejs.svg)
+
 ![ocaml](https://github.com/abenhamdi/abenhamdi/blob/main/ocaml.svg)
-![tailwind-css](https://github.com/abenhamdi/abenhamdi/blob/main/tailwind-css.svg)
+
+![tailwind-css]<img align="right" width="100" height="100" src="(https://github.com/abenhamdi/abenhamdi/blob/main/tailwind-css.svg)">
 
 
 
