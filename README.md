@@ -17,7 +17,7 @@ Hi, I'm Benhamdi Ayoub — Data scientist with 2 years of experience turning dat
 
 I work on .. 💻
 
-![Tailwind-css]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/tailwind-css.svg" width="100" height="100">
+![Tailwind-css]<"https://github.com/abenhamdi/abenhamdi/blob/main/tailwind-css.svg">
 ![Nodejs]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/nodejs.svg" width="100" height="100">
 ![OCaml]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/ocaml.svg" width="100" height="100">
 ![Jquery]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/jquery.svg" width="100" height="100">
