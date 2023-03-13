@@ -17,21 +17,21 @@ Hi, I'm Benhamdi Ayoub — Data scientist with 2 years of experience turning dat
 
 I work on .. 💻
 
-![Cover]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/tailwind-css.svg" width="100" height="100">
-![Cover]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/nodejs.svg" width="100" height="100">
-![Cover]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/ocaml.svg" width="100" height="100">
-![Cover]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/jquery.svg" width="100" height="100">
-![Cover]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/react_native.svg" width="100" height="100">
-![Cover]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/javascript.svg" width="100" height="100">
-![Cover]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/php.svg" width="100" height="100">
-![Cover]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/bootstrap.svg" width="100" height="100">
-![Cover]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/css-3.svg" width="100" height="100">
-![Cover]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/html5.svg" width="100" height="100">
-![Cover]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/git.svg" width="100" height="100">
-![Cover]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/java.svg" width="100" height="100">
-![Cover]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/c++.svg" width="100" height="100">
-![Cover]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/c.svg" width="100" height="100">
-![Cover]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/python.svg" width="100" height="100">
+![Tailwind-css]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/tailwind-css.svg" width="100" height="100">
+![Nodejs]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/nodejs.svg" width="100" height="100">
+![OCaml]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/ocaml.svg" width="100" height="100">
+![Jquery]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/jquery.svg" width="100" height="100">
+![React-native]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/react_native.svg" width="100" height="100">
+![Javascript]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/javascript.svg" width="100" height="100">
+![Php]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/php.svg" width="100" height="100">
+![Bootstrap]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/bootstrap.svg" width="100" height="100">
+![Css-3]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/css-3.svg" width="100" height="100">
+![Html5]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/html5.svg" width="100" height="100">
+![Git]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/git.svg" width="100" height="100">
+![Java]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/java.svg" width="100" height="100">
+![C++]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/c++.svg" width="100" height="100">
+![C]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/c.svg" width="100" height="100">
+![Python]<img src="https://github.com/abenhamdi/abenhamdi/blob/main/python.svg" width="100" height="100">
 
 
 
