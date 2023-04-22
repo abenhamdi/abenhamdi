@@ -18,7 +18,7 @@ I work on Blockchain, Ansible, Confluence, Kube ..💻
 
 You can follow me on https://www.linkedin.com/in/ayoub-benhamdi-a4abaa19b/
 
-[![ABenhamdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abenhamdi&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![ABenhamdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abenhamdi&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
