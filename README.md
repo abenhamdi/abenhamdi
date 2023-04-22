@@ -10,12 +10,17 @@ Hi, I'm Benhamdi Ayoub — Data scientist with 2 years of experience turning dat
 
 💬 Currently looking for a right opportunity in the field of Data Analysis & AI. Feel free to reach out to me for working together, volunteering, or just for some interesting discussion.
 
-✉️ Shoot me an email at ayoub.benhamdi@laplateforme.fr and I'll try to respond as soon as I can.
+✉️ Shoot me an email at ayoub.benhamdi@laplateforme.io and I'll try to respond as soon as I can.
 
 📄 For more details please have a look at my Resume.
 
+I work on Blockchain, Ansible, Confluence, Kube ..💻
 
-I work on .. 💻
+You can follow me on https://www.linkedin.com/in/ayoub-benhamdi-a4abaa19b/
+
+[![ABenhamdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abenhamdi&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <img align="left" width="100" height="100" src="https://github.com/abenhamdi/abenhamdi/blob/main/tailwind-css.svg" >
 <img align="left" width="100" height="100" src="https://github.com/abenhamdi/abenhamdi/blob/main/nodejs.svg">
@@ -36,10 +41,8 @@ I work on .. 💻
 
 
 
-You can follow me on ...
 
 
-"Snake eating my contributions !
 ![snake gif](https://github.com/abenhamdi/abenhamdi/blob/output/github-contribution-grid-snake.gif)
 
 
