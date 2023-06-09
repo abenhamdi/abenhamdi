@@ -14,7 +14,8 @@ Hi, I'm Benhamdi Ayoub — Data scientist with 2 years of experience turning dat
 
 📄 For more details please have a look at my Resume.
 
-I work on Blockchain, Ansible, Confluence, Kube ..💻
+I work on Blockchain..
+Also on Ansible, Confluence, Kube ..💻
 
 You can follow me on https://www.linkedin.com/in/ayoub-benhamdi-a4abaa19b/
 
