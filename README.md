@@ -10,7 +10,7 @@ Hi, I'm Benhamdi Ayoub — Data scientist with +3 years of experience turning da
 
 💬 Currently looking for a right opportunity in the field of Data Analysis & AI. Feel free to reach out to me for working together, volunteering, or just for some interesting discussion.
 
-✉️ Shoot me an email at ayoub.benhamdi@laplateforme.io and I'll try to respond as soon as I can.
+✉️ Shoot me an email at abconsulting113@gmail.com and I'll try to respond as soon as I can.
 
 📄 For more details please have a look at my Resume.
 
