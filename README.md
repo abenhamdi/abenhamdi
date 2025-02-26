@@ -28,7 +28,6 @@ You can follow me on https://www.linkedin.com/in/ayoub-benhamdi-a4abaa19b/
 <img align="left" width="100" height="100" src="https://github.com/abenhamdi/abenhamdi/blob/main/nodejs.svg">
 <img align="left" width="100" height="100" src="https://github.com/abenhamdi/abenhamdi/blob/main/ocaml.svg">
 <img align="left" width="100" height="100" src="https://github.com/abenhamdi/abenhamdi/blob/main/jquery.svg" >
-<img align="left" width="100" height="100" src="https://github.com/abenhamdi/abenhamdi/blob/main/react_native.svg" >
 <img align="left" width="100" height="100" src="https://github.com/abenhamdi/abenhamdi/blob/main/javascript.svg">
 <img align="left" width="100" height="100" src="https://github.com/abenhamdi/abenhamdi/blob/main/php.svg" >
 <img align="left" width="100" height="100" src="https://github.com/abenhamdi/abenhamdi/blob/main/bootstrap.svg">
