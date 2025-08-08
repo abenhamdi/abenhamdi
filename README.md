@@ -44,7 +44,6 @@ You can follow me on https://www.linkedin.com/in/ayoub-benhamdi-a4abaa19b/
 
 
 
-![snake gif](https://github.com/abenhamdi/abenhamdi/blob/output/github-contribution-grid-snake.gif)
 
 
 
