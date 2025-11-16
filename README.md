@@ -19,26 +19,6 @@ Also on Ansible, Confluence, Kube ..💻
 
 You can follow me on https://www.linkedin.com/in/ayoub-benhamdi-a4abaa19b/
 
-[![ABenhamdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abenhamdi&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abenhamdi&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<img align="left" width="100" height="100" src="https://github.com/abenhamdi/abenhamdi/blob/main/tailwind-css.svg" >
-<img align="left" width="100" height="100" src="https://github.com/abenhamdi/abenhamdi/blob/main/nodejs.svg">
-<img align="left" width="100" height="100" src="https://github.com/abenhamdi/abenhamdi/blob/main/ocaml.svg">
-<img align="left" width="100" height="100" src="https://github.com/abenhamdi/abenhamdi/blob/main/jquery.svg" >
-<img align="left" width="100" height="100" src="https://github.com/abenhamdi/abenhamdi/blob/main/javascript.svg">
-<img align="left" width="100" height="100" src="https://github.com/abenhamdi/abenhamdi/blob/main/php.svg" >
-<img align="left" width="100" height="100" src="https://github.com/abenhamdi/abenhamdi/blob/main/bootstrap.svg">
-<img align="left" width="100" height="100" src="https://github.com/abenhamdi/abenhamdi/blob/main/css-3.svg" >
-<img align="left" width="100" height="100" src="https://github.com/abenhamdi/abenhamdi/blob/main/html5.svg" >
-<img align="left" width="100" height="100" src="https://github.com/abenhamdi/abenhamdi/blob/main/git.svg" >
-<img align="left" width="100" height="100"src="https://github.com/abenhamdi/abenhamdi/blob/main/java.svg" >
-<img align="left" width="100" height="100" src="https://github.com/abenhamdi/abenhamdi/blob/main/c++.svg" >
-<img align="left" width="100" height="100" src="https://github.com/abenhamdi/abenhamdi/blob/main/c.svg" >
-<img src="https://github.com/abenhamdi/abenhamdi/blob/main/python.svg" width="100" height="100" >
-
 
 
 
